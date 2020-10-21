@@ -1,0 +1,2 @@
+# VideoCompressionDemo
+通过FFmpeg压缩视频，也可以根据自己的需求进行下载并修改命令。减少了自己的集成时间
